@@ -11,3 +11,6 @@ bug 100 work is over
 
 ************
 
+publis void test(){
+}
+
