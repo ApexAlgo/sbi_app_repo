@@ -11,6 +11,10 @@ bug 100 work is over
 
 ************
 
+
 public void test1(){
+
+publis void test(){
+
 }
 
