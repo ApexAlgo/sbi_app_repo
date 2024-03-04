@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 
 
 
 bug 102
+=======
+bug 100 work is over 
+>>>>>>> Stashed changes
